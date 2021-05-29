@@ -1,0 +1,21 @@
+The development of science and technology, resulting in the advancement of civilization, new
+ways that were discovered exploiting varied physical resources like materials, forces, and
+energies. The history of computer development represents the result of years of technological
+advancements starting with the first concepts of Charles Babbage and also the ultimate creation
+of the 1st computer of history by German engineer Konrad Zuse in 1941. The total method
+concerned a sequence of changes from one form of physical realization to a different from gears
+to relays to valves, transistors, integrated circuits, chips so on. amazingly, however, today's
+high-speed trendy computer has no difference from 1st 30-ton ancestors computer that was
+equipped with some 18000 vacuum tubes and 500 miles of wiring. All though computers became
+a lot of compact and significantly quicker in playing their task. But the task remains the same
+which is to manipulate and interpret an encoding of binary bits into a useful computational result.
+Quantum computing basically focused on developing computer technology based on the
+principles of quantum theory. It explains the behavior of energy and material on the atomic and
+subatomic levels. The computers that we use today is known classical computer an only encode
+information in bits. Which is a combined value of 1 or 0 and their ability gets restricts. But in
+quantum computing, use quantum bits or qubits. It harnesses the distinctive ability of subatomic
+participles that permits them to exist in additional than one state. i.e. a 1 and a 0 at the same
+time. These supercomputers are based on superposition and entanglement. These are basically
+two features of quantum physics. This empowers quantum computers to handle operations at
+speeds exponentially beyond the conventional or standard computers and at much abundant
+lesser consumption.
